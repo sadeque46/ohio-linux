@@ -1,1 +1,5 @@
-this is devops file from master
+<<<<<<< HEAD 
+this is devops file from master 
+=======
+from branch extra
+>>>>>>> extra
